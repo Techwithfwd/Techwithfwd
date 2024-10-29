@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Techwithfwd
+- 👀 I’m interested in Python 
+- 🌱 I’m currently learning PyGame & GUI development in Python
+- 💞️ I’m looking to collaborate on Various Python projects.
+- 📫 How to reach me via mail MJFAroyals@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Expert at Python Programming Language.
