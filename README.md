@@ -1,4 +1,4 @@
-- 👋 Hi There, I’m Fwd, @Techwithfwd
+- 👋 Hi There, I’m Fwd, @Techwithfwd now full-time dev
 - 👀 I’m interested in Python,PyGame & Pyhton GUI Development! 
 - 🌱 I’m currently full time learning PyGame & Python GUI development and dabbling with Solidity
 - 🚀 I know Java{Script} & React amongst other stuff
