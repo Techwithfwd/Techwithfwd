@@ -4,6 +4,7 @@
 - 🚀 I know Java{Script} & React amongst other stuff
 - 💞️ I’m looking to collaborate on Various Python projects
 - 🕵️‍♂️ Looking for freelance and/or full-time work oppurtunities
+- 🗺️I’m interested in good food,music,people and adventure
 - 📫 How to reach me via mail MJFAroyals@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Expert at Python Programming Language
