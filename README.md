@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Techwithfwd
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning PyGame & GUI development in Python
-- 💞️ I’m looking to collaborate on Various Python projects.
+- 👋 Hi There, I’m Fwd, @Techwithfwd
+- 👀 I’m interested in Python,PyGame & Pyhton GUI Development! 
+- 🌱 I’m currently full time learning PyGame & Python GUI development and dabbling with Solidity
+- 🚀 I know Java{Script} & React amongst other stuff
+- 💞️ I’m looking to collaborate on Various Python projects
+- 🕵️‍♂️ Looking for freelance and/or full-time work oppurtunities
 - 📫 How to reach me via mail MJFAroyals@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Expert at Python Programming Language.
+- ⚡ Fun fact: Expert at Python Programming Language
