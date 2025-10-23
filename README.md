@@ -1,5 +1,5 @@
 - 👋 Hi There, I’m Fawad, @Techwithfwd now full-time in Level Designer | Unreal Engine 5 Environment Artist | Game Designer | 3D Lighting & World Building Specialist | Creating Immersive, Cinematic Real-Time Worlds & Python High-Level Programming Language
-- 👀 I’m interested in Unreal Engine & Unity & also, Python,PyGame & Pyhton GUI Development! 
+- 👀 I’m interested in Unreal Engine & Unity also, Python,PyGame & Pyhton GUI Development! 
 - 🌱 I’m currently full time learning PyGame,Python GUI development and dabbling with Solidity
 - 🚀 I know Java{Script} & React amongst other stuff
 - 💞️ I’m looking to collaborate on Various Unreal Engine Environment Designing, Level Designing & Cinematics Real-Time World Builder
