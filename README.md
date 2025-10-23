@@ -7,4 +7,4 @@
 - 🗺️I’m interested in good food,music,people and adventure
 - 📫 How to reach me via mail unrealfawad@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Unreal Engine Gameplay Developer | Level Designer | Cinematic World Builder &  Python Programming Language &
+- ⚡ Fun fact: Unreal Engine Gameplay Developer | Level Designer | Cinematic World Builder &  Python Programming Language 
