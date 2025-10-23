@@ -1,10 +1,10 @@
-- 👋 Hi There, I’m Fwd, @Techwithfwd now full-time dev in Python High-Level Programming Language
+- 👋 Hi There, I’m Fawad, @Techwithfwd now full-time dev in Python High-Level Programming Language
 - 👀 I’m interested in Python,PyGame & Pyhton GUI Development! 
 - 🌱 I’m currently full time learning PyGame & Python GUI development and dabbling with Solidity
 - 🚀 I know Java{Script} & React amongst other stuff
 - 💞️ I’m looking to collaborate on Various Python projects
 - 🕵️‍♂️ Looking for freelance and/or full-time work oppurtunities
 - 🗺️I’m interested in good food,music,people and adventure
-- 📫 How to reach me via mail MJFAroyals@gmail.com
+- 📫 How to reach me via mail unrealfawad@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Expert at Python Programming Language
